@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name fabtotum_head_connector)(type KiCad)(uri ${KIPRJMOD}/../FABHeadLibraries/fabtotum_head_connector.pretty)(options "")(descr ""))
+)

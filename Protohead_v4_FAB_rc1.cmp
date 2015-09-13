@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-26 BZR 5453)-product   date = Thu 20 Aug 2015 15:50:53 CEST
+
+BeginCmp
+TimeStamp = /55D5A6B0;
+Reference = P1;
+ValeurCmp = FABTOTUM_HEAD_NOMOTOR_CONNECTOR;
+IdModule  = fabtotum_head_connector:IntegratedBourns_nomotor_smd;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D5ADDB;
+Reference = P2;
+ValeurCmp = FAN;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D5AA1B;
+Reference = P3;
+ValeurCmp = HEATER;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D5AB48;
+Reference = P4;
+ValeurCmp = BLOWER;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D5ACC0;
+Reference = P5;
+ValeurCmp = THERMISTOR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D5D86B;
+Reference = P6;
+ValeurCmp = I2C;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D5D925;
+Reference = P7;
+ValeurCmp = Arduino_Mini_RAW_GND_RST_VCC;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+EndListe

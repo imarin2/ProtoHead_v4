@@ -1,0 +1,7 @@
+Object not found: P1 FABTOTUM_HEAD_NOMOTOR_CONNECTOR [Package: IntegratedBourns_nomotor_sm, Library: IntegratedBourns_nomotor_sm]
+Object not found: P2 FAN [Package: Pin_Header_Straight_1x02, Library: Pin_Header_Straight_1x02]
+Object not found: P3 HEATER [Package: Pin_Header_Straight_1x02, Library: Pin_Header_Straight_1x02]
+Object not found: P4 BLOWER [Package: Pin_Header_Straight_1x02, Library: Pin_Header_Straight_1x02]
+Object not found: P5 THERMISTOR [Package: Pin_Header_Straight_1x02, Library: Pin_Header_Straight_1x02]
+Object not found: P6 I2C [Package: Pin_Header_Straight_1x02, Library: Pin_Header_Straight_1x02]
+Object not found: P7 Arduino_Mini_RAW_GND_RST_VCC [Package: Socket_Strip_Straight_1x04, Library: Socket_Strip_Straight_1x04]
