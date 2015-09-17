@@ -2,6 +2,9 @@
 
 This repository includes all the design and manufacturing information for a Protohead v4 DIY FABtotum head. This head is not fully tested yet. Do not expect just to 3d print the parts, mill the PCB, put everything together and outperform the stock head. It is just a first effort towards having a reference design that just "works" (within the limitations that will sure arise), so that others can get started and improve the design.
 
+Note: There is an alternative PCB featuring 24 V and servo1 connections in here:
+https://github.com/imarin2/Protohead_PCB_v4_FAB_24V
+
 # So what is this in short?
 
 A Bowden type hotend print only FABtotum head looking like this:
